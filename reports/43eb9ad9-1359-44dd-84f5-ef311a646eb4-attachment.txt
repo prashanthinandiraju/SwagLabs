@@ -1,0 +1,89 @@
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.address`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.address` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.automotive`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.automotive` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.bank`.
+[35mDEBUG   [0m faker.factory:factory.py:88 Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.barcode`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.barcode` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.color`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.color` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.company`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.company` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.credit_card`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.credit_card` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.currency`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.currency` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.date_time`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.date_time` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:109 Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.geo`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.geo` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.internet`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.internet` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:109 Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.job`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.job` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.lorem`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.lorem` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.misc`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.misc` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.person`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.person` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.phone_number`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.phone_number` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:109 Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+[35mDEBUG   [0m faker.factory:factory.py:109 Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+[35mDEBUG   [0m faker.factory:factory.py:78 Looking for locale `en_US` in provider `faker.providers.ssn`.
+[35mDEBUG   [0m faker.factory:factory.py:97 Provider `faker.providers.ssn` has been localized to `en_US`.
+[35mDEBUG   [0m faker.factory:factory.py:109 Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+[32mINFO    [0m WDM:logger.py:26 
+
+[32mINFO    [0m WDM:logger.py:26 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:26 Current google-chrome version is 100.0.4896
+[32mINFO    [0m WDM:logger.py:26 Get LATEST chromedriver version for 100.0.4896 google-chrome
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:1001 Starting new HTTPS connection (1): chromedriver.storage.googleapis.com:443
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 https://chromedriver.storage.googleapis.com:443 "GET /LATEST_RELEASE_100.0.4896 HTTP/1.1" 200 13
+[32mINFO    [0m WDM:logger.py:26 Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:228 Starting new HTTP connection (1): localhost:49155
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session HTTP/1.1" 200 790
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/url {"url": "https://www.saucedemo.com/"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/url HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/window/maximize {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/window/maximize HTTP/1.1" 200 51
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 GET http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/title {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "GET /session/ff8d4c358fe65ff385f4ca0f60ade661/title HTTP/1.1" 200 21
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[33mWARNING [0m root:test_Login.py:24 Launching browser
+[32mINFO    [0m root:test_Login.py:27 Enter Username
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/element {"using": "xpath", "value": "//*[@id=\"user-name\"]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/element/31869279-6ef0-47bc-b98e-447720ff9d96/value {"text": "standard_user", "value": ["s", "t", "a", "n", "d", "a", "r", "d", "_", "u", "s", "e", "r"], "id": "31869279-6ef0-47bc-b98e-447720ff9d96"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/element/31869279-6ef0-47bc-b98e-447720ff9d96/value HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/element {"using": "css selector", "value": "[id=\"password\"]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/element/b5bcc844-ca51-4c6d-880e-f4cbd833cd8d/value {"text": "secret_sauce", "value": ["s", "e", "c", "r", "e", "t", "_", "s", "a", "u", "c", "e"], "id": "b5bcc844-ca51-4c6d-880e-f4cbd833cd8d"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/element/b5bcc844-ca51-4c6d-880e-f4cbd833cd8d/value HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/element {"using": "xpath", "value": "//*[@id=\"login-button\"]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/element/8b8a2305-0756-4b7e-bcdd-10dcc52ee8f0/click {"id": "8b8a2305-0756-4b7e-bcdd-10dcc52ee8f0"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/element/8b8a2305-0756-4b7e-bcdd-10dcc52ee8f0/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/element {"using": "css selector", "value": "[id=\"react-burger-menu-btn\"]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/element HTTP/1.1" 200 88
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 POST http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/element/436872e7-f2fb-45c2-8f5a-bf7568c9f09a/click {"id": "436872e7-f2fb-45c2-8f5a-bf7568c9f09a"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "POST /session/ff8d4c358fe65ff385f4ca0f60ade661/element/436872e7-f2fb-45c2-8f5a-bf7568c9f09a/click HTTP/1.1" 200 14
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:347 GET http://localhost:49155/session/ff8d4c358fe65ff385f4ca0f60ade661/screenshot {}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:49155 "GET /session/ff8d4c358fe65ff385f4ca0f60ade661/screenshot HTTP/1.1" 200 88316
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:398 Finished Request

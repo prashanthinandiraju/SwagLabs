@@ -1,0 +1,298 @@
+05/02/2022 06:09:13:PM - INFO : 
+
+05/02/2022 06:09:13:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:09:13:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:09:13:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:09:14:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:09:21:PM - INFO : Testing the login page
+05/02/2022 06:09:21:PM - INFO : Launching the browser to test the application
+05/02/2022 06:09:22:PM - INFO : Login successful
+05/02/2022 06:19:58:PM - INFO : 
+
+05/02/2022 06:19:58:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:19:59:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:19:59:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:19:59:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:20:06:PM - INFO : Testing the login page
+05/02/2022 06:20:06:PM - INFO : Launching the browser to test the application
+05/02/2022 06:20:06:PM - INFO : Login successful
+05/02/2022 06:20:07:PM - INFO : Testing Add to cart page
+05/02/2022 06:20:07:PM - INFO : Selecting the filter from price low to high
+05/02/2022 06:20:10:PM - INFO : Adding items to cart
+05/02/2022 06:20:24:PM - INFO : Added items to cart
+05/02/2022 06:20:24:PM - INFO : 
+
+05/02/2022 06:20:24:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:20:24:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:20:24:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:20:24:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:20:30:PM - INFO : Testing the login page
+05/02/2022 06:20:30:PM - INFO : Launching the browser to test the application
+05/02/2022 06:20:31:PM - INFO : Login successful
+05/02/2022 06:27:22:PM - INFO : 
+
+05/02/2022 06:27:22:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:27:22:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:27:22:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:27:22:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:27:28:PM - INFO : Testing the login page
+05/02/2022 06:27:28:PM - INFO : Launching the browser to test the application
+05/02/2022 06:27:28:PM - INFO : Login successful
+05/02/2022 06:27:29:PM - INFO : 
+
+05/02/2022 06:27:29:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:27:29:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:27:29:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:27:29:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:27:35:PM - INFO : Testing the login page
+05/02/2022 06:27:35:PM - INFO : Launching the browser to test the application
+05/02/2022 06:27:36:PM - INFO : Login successful
+05/02/2022 06:27:36:PM - INFO : Testing Add to cart page
+05/02/2022 06:27:36:PM - INFO : Selecting the filter from price low to high
+05/02/2022 06:27:39:PM - INFO : Adding items to cart
+05/02/2022 06:27:52:PM - INFO : Added items to cart
+05/02/2022 06:32:51:PM - INFO : 
+
+05/02/2022 06:32:51:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:32:51:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:32:51:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:32:51:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:32:56:PM - INFO : Testing the login page
+05/02/2022 06:32:56:PM - INFO : Launching the browser to test the application
+05/02/2022 06:32:56:PM - INFO : Login successful
+05/02/2022 06:32:56:PM - INFO : Testing Add to cart page
+05/02/2022 06:32:56:PM - INFO : Selecting the filter from price low to high
+05/02/2022 06:32:59:PM - INFO : Adding items to cart
+05/02/2022 06:33:13:PM - INFO : Added items to cart
+05/02/2022 06:33:13:PM - INFO : Testing CartItems page
+05/02/2022 06:33:13:PM - INFO : Clicking on Cart Icon
+05/02/2022 06:33:23:PM - INFO : Verifying cart items
+05/02/2022 06:33:23:PM - INFO : Checked out cart items
+05/02/2022 06:37:50:PM - INFO : 
+
+05/02/2022 06:37:50:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:37:50:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:37:50:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:37:50:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:37:54:PM - INFO : Testing the login page
+05/02/2022 06:37:54:PM - INFO : Launching the browser to test the application
+05/02/2022 06:37:55:PM - INFO : Login successful
+05/02/2022 06:37:55:PM - INFO : Testing Add to cart page
+05/02/2022 06:37:55:PM - INFO : Selecting the filter from price low to high
+05/02/2022 06:37:58:PM - INFO : Adding items to cart
+05/02/2022 06:38:12:PM - INFO : Added items to cart
+05/02/2022 06:38:12:PM - INFO : Testing CartItems page
+05/02/2022 06:38:12:PM - INFO : Clicking on Cart Icon
+05/02/2022 06:38:22:PM - INFO : Verifying cart items
+05/02/2022 06:38:22:PM - INFO : Checked out cart items
+05/02/2022 06:38:22:PM - INFO : Testing Checkout complete page
+05/02/2022 06:38:22:PM - INFO : Enter Firstname, lastname and Zipcode
+05/02/2022 06:38:22:PM - INFO : Clicked on continue in checkout information page
+05/02/2022 06:41:51:PM - INFO : 
+
+05/02/2022 06:41:51:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:41:51:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:41:51:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:41:51:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:41:56:PM - INFO : Testing the login page
+05/02/2022 06:41:56:PM - INFO : Launching the browser to test the application
+05/02/2022 06:41:57:PM - INFO : Login successful
+05/02/2022 06:41:57:PM - INFO : Testing Add to cart page
+05/02/2022 06:41:57:PM - INFO : Selecting the filter from price low to high
+05/02/2022 06:42:00:PM - INFO : Adding items to cart
+05/02/2022 06:42:13:PM - INFO : Added items to cart
+05/02/2022 06:42:14:PM - INFO : Testing CartItems page
+05/02/2022 06:42:14:PM - INFO : Clicking on Cart Icon
+05/02/2022 06:42:24:PM - INFO : Verifying cart items
+05/02/2022 06:42:24:PM - INFO : Checked out cart items
+05/02/2022 06:42:24:PM - INFO : Testing Checkout complete page
+05/02/2022 06:42:24:PM - INFO : Enter Firstname, lastname and Zipcode
+05/02/2022 06:42:24:PM - INFO : Clicked on continue in checkout information page
+05/02/2022 06:42:24:PM - INFO : Testing checkout overview page
+05/02/2022 06:42:25:PM - INFO : Clicked on finish.
+05/02/2022 06:45:28:PM - INFO : 
+
+05/02/2022 06:45:28:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:45:29:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:45:29:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:45:29:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:45:33:PM - INFO : Testing the login page
+05/02/2022 06:45:33:PM - INFO : Launching the browser to test the application
+05/02/2022 06:45:34:PM - INFO : Login successful
+05/02/2022 06:45:34:PM - INFO : Testing Add to cart page
+05/02/2022 06:45:34:PM - INFO : Selecting the filter from price low to high
+05/02/2022 06:45:37:PM - INFO : Adding items to cart
+05/02/2022 06:45:50:PM - INFO : Added items to cart
+05/02/2022 06:45:51:PM - INFO : Testing CartItems page
+05/02/2022 06:45:51:PM - INFO : Clicking on Cart Icon
+05/02/2022 06:46:01:PM - INFO : Verifying cart items
+05/02/2022 06:46:01:PM - INFO : Checked out cart items
+05/02/2022 06:46:01:PM - INFO : Testing Checkout complete page
+05/02/2022 06:46:01:PM - INFO : Enter Firstname, lastname and Zipcode
+05/02/2022 06:46:01:PM - INFO : Clicked on continue in checkout information page
+05/02/2022 06:46:01:PM - INFO : Testing checkout overview page
+05/02/2022 06:46:01:PM - INFO : Clicked on finish.
+05/02/2022 06:46:02:PM - INFO : Testing Checkout complete page
+05/02/2022 06:46:02:PM - INFO : Checking order number in checkout complete page.
+05/02/2022 06:51:12:PM - INFO : 
+
+05/02/2022 06:51:12:PM - INFO : ====== WebDriver manager ======
+05/02/2022 06:51:12:PM - INFO : Current google-chrome version is 100.0.4896
+05/02/2022 06:51:12:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/02/2022 06:51:12:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/02/2022 06:51:16:PM - INFO : Testing the login page
+05/02/2022 06:51:16:PM - INFO : Launching the browser to test the application
+05/02/2022 06:51:17:PM - INFO : Login successful
+05/02/2022 06:51:17:PM - INFO : Testing Add to cart page
+05/02/2022 06:51:17:PM - INFO : Selecting the filter from price low to high
+05/02/2022 06:51:20:PM - INFO : Adding items to cart
+05/02/2022 06:51:34:PM - INFO : Added items to cart
+05/02/2022 06:51:34:PM - INFO : Testing CartItems page
+05/02/2022 06:51:34:PM - INFO : Clicking on Cart Icon
+05/02/2022 06:51:44:PM - INFO : Verifying cart items
+05/02/2022 06:51:44:PM - INFO : Checked out cart items
+05/02/2022 06:51:44:PM - INFO : Testing Checkout Information page
+05/02/2022 06:51:44:PM - INFO : Enter Firstname, lastname and Zipcode
+05/02/2022 06:51:45:PM - INFO : Clicked on continue in checkout information page
+05/02/2022 06:51:45:PM - INFO : Testing checkout overview page
+05/02/2022 06:51:45:PM - INFO : Clicked on finish.
+05/02/2022 06:51:45:PM - INFO : Testing Checkout complete page
+05/02/2022 06:51:45:PM - INFO : Checking order number in checkout complete page.
+05/04/2022 10:37:36:AM - INFO : 
+
+05/04/2022 10:37:36:AM - INFO : ====== WebDriver manager ======
+05/04/2022 10:37:36:AM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 10:37:36:AM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 10:37:38:AM - INFO : Trying to download new driver from https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_win32.zip
+05/04/2022 10:37:40:AM - INFO : Driver has been saved in cache [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60]
+05/04/2022 10:37:48:AM - INFO : Testing the login page
+05/04/2022 10:37:48:AM - INFO : Launching the browser to test the application
+05/04/2022 10:37:48:AM - INFO : Login successful
+05/04/2022 10:37:48:AM - INFO : Testing Add to cart page
+05/04/2022 10:37:49:AM - INFO : Selecting the filter from price low to high
+05/04/2022 10:37:52:AM - INFO : Adding items to cart
+05/04/2022 10:38:05:AM - INFO : Added items to cart
+05/04/2022 10:38:06:AM - INFO : Testing CartItems page
+05/04/2022 10:38:06:AM - INFO : Clicking on Cart Icon
+05/04/2022 10:38:16:AM - INFO : Verifying cart items
+05/04/2022 10:38:16:AM - INFO : Checked out cart items
+05/04/2022 10:38:16:AM - INFO : Testing Checkout Information page
+05/04/2022 10:38:16:AM - INFO : Enter Firstname, lastname and Zipcode
+05/04/2022 10:38:16:AM - INFO : Clicked on continue in checkout information page
+05/04/2022 10:38:16:AM - INFO : Testing checkout overview page
+05/04/2022 10:38:16:AM - INFO : Clicked on finish.
+05/04/2022 10:38:17:AM - INFO : Testing Checkout complete page
+05/04/2022 10:38:17:AM - INFO : Checking order number in checkout complete page.
+05/04/2022 01:06:41:PM - INFO : 
+
+05/04/2022 01:06:41:PM - INFO : ====== WebDriver manager ======
+05/04/2022 01:06:41:PM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 01:06:41:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 01:06:43:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/04/2022 01:06:48:PM - INFO : Testing the login page
+05/04/2022 01:06:48:PM - INFO : Launching the browser to test the application
+05/04/2022 01:06:48:PM - INFO : Testing Add to cart page
+05/04/2022 01:06:48:PM - INFO : Testing CartItems page
+05/04/2022 01:06:48:PM - INFO : Clicking on Cart Icon
+05/04/2022 01:06:48:PM - INFO : Testing Checkout Information page
+05/04/2022 01:06:48:PM - INFO : Enter Firstname, lastname and Zipcode
+05/04/2022 01:06:48:PM - INFO : Testing checkout overview page
+05/04/2022 01:06:48:PM - INFO : Testing Checkout complete page
+05/04/2022 01:06:48:PM - INFO : Checking order number in checkout complete page.
+05/04/2022 01:07:17:PM - INFO : 
+
+05/04/2022 01:07:17:PM - INFO : ====== WebDriver manager ======
+05/04/2022 01:07:17:PM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 01:07:17:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 01:07:17:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/04/2022 01:07:22:PM - INFO : Testing the login page
+05/04/2022 01:07:22:PM - INFO : Launching the browser to test the application
+05/04/2022 01:07:22:PM - INFO : Testing Add to cart page
+05/04/2022 01:07:22:PM - INFO : Testing CartItems page
+05/04/2022 01:07:22:PM - INFO : Clicking on Cart Icon
+05/04/2022 01:07:22:PM - INFO : Testing Checkout Information page
+05/04/2022 01:07:22:PM - INFO : Enter Firstname, lastname and Zipcode
+05/04/2022 01:07:22:PM - INFO : Testing checkout overview page
+05/04/2022 01:07:22:PM - INFO : Testing Checkout complete page
+05/04/2022 01:07:22:PM - INFO : Checking order number in checkout complete page.
+05/04/2022 01:08:29:PM - INFO : 
+
+05/04/2022 01:08:29:PM - INFO : ====== WebDriver manager ======
+05/04/2022 01:08:29:PM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 01:08:29:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 01:08:30:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/04/2022 01:08:34:PM - INFO : Testing the login page
+05/04/2022 01:08:34:PM - INFO : Launching the browser to test the application
+05/04/2022 01:08:34:PM - INFO : Testing Add to cart page
+05/04/2022 01:08:34:PM - INFO : Testing CartItems page
+05/04/2022 01:08:34:PM - INFO : Clicking on Cart Icon
+05/04/2022 01:08:34:PM - INFO : Testing Checkout Information page
+05/04/2022 01:08:34:PM - INFO : Enter Firstname, lastname and Zipcode
+05/04/2022 01:08:34:PM - INFO : Testing checkout overview page
+05/04/2022 01:08:35:PM - INFO : Testing Checkout complete page
+05/04/2022 01:08:35:PM - INFO : Checking order number in checkout complete page.
+05/04/2022 01:17:59:PM - INFO : 
+
+05/04/2022 01:17:59:PM - INFO : ====== WebDriver manager ======
+05/04/2022 01:17:59:PM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 01:17:59:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 01:17:59:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/04/2022 01:18:04:PM - INFO : Testing the login page
+05/04/2022 01:18:04:PM - INFO : Launching the browser to test the application
+05/04/2022 01:18:54:PM - INFO : Testing Add to cart page
+05/04/2022 01:18:54:PM - INFO : Testing CartItems page
+05/04/2022 01:18:54:PM - INFO : Clicking on Cart Icon
+05/04/2022 01:18:54:PM - INFO : Testing Checkout Information page
+05/04/2022 01:18:54:PM - INFO : Enter Firstname, lastname and Zipcode
+05/04/2022 01:18:54:PM - INFO : Testing checkout overview page
+05/04/2022 01:18:54:PM - INFO : Testing Checkout complete page
+05/04/2022 01:18:54:PM - INFO : Checking order number in checkout complete page.
+05/04/2022 01:24:09:PM - INFO : 
+
+05/04/2022 01:24:09:PM - INFO : ====== WebDriver manager ======
+05/04/2022 01:24:09:PM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 01:24:09:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 01:24:09:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/04/2022 01:24:14:PM - INFO : Testing the login page
+05/04/2022 01:24:14:PM - INFO : Launching the browser to test the application
+05/04/2022 01:38:26:PM - INFO : 
+
+05/04/2022 01:38:26:PM - INFO : ====== WebDriver manager ======
+05/04/2022 01:38:26:PM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 01:38:26:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 01:38:26:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/04/2022 01:38:31:PM - INFO : Testing the login page
+05/04/2022 01:38:31:PM - INFO : Launching the browser to test the application
+05/04/2022 01:41:33:PM - INFO : 
+
+05/04/2022 01:41:33:PM - INFO : ====== WebDriver manager ======
+05/04/2022 01:41:33:PM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 01:41:33:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 01:41:35:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/04/2022 01:41:39:PM - INFO : Testing the login page
+05/04/2022 01:41:39:PM - INFO : Launching the browser to test the application
+05/04/2022 05:25:30:PM - INFO : 
+
+05/04/2022 05:25:30:PM - INFO : ====== WebDriver manager ======
+05/04/2022 05:25:30:PM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 05:25:30:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 05:25:30:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/04/2022 05:25:36:PM - INFO : Testing the login page
+05/04/2022 05:25:36:PM - INFO : Launching the browser to test the application
+05/04/2022 05:25:36:PM - INFO : Login successful
+05/04/2022 05:25:37:PM - INFO : Testing Add to cart page
+05/04/2022 05:25:37:PM - INFO : Selecting the filter from price low to high
+05/04/2022 05:25:40:PM - INFO : Adding items to cart
+05/04/2022 05:38:08:PM - INFO : 
+
+05/04/2022 05:38:08:PM - INFO : ====== WebDriver manager ======
+05/04/2022 05:38:08:PM - INFO : Current google-chrome version is 100.0.4896
+05/04/2022 05:38:08:PM - INFO : Get LATEST chromedriver version for 100.0.4896 google-chrome
+05/04/2022 05:38:08:PM - INFO : Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+05/04/2022 05:38:13:PM - INFO : Testing the login page
+05/04/2022 05:38:13:PM - INFO : Launching the browser to test the application
+05/04/2022 05:38:13:PM - INFO : Login successful
+05/04/2022 05:38:13:PM - INFO : Testing Add to cart page
+05/04/2022 05:38:14:PM - INFO : Selecting the filter from price low to high
+05/04/2022 05:38:17:PM - INFO : Adding items to cart
+05/04/2022 05:38:27:PM - INFO : Added items to cart
