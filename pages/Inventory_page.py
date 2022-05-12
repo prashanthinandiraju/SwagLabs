@@ -14,7 +14,7 @@ class InventoryPage(BaseDriver):
     btn_addtocartbackpack = 'add-to-cart-sauce-labs-backpack'
     btn_addtocartjacket = 'add-to-cart-sauce-labs-fleece-jacket'
     link_jacket = '//*[@id="item_5_title_link"]/div'
-    #img_jacket = '//*[@id="item_5_img_link"]/img'
+    img_jacket = '//*[@id="item_5_img_link"]/img'
     btn_backtoproduts = 'back-to-products'
     icon_cart = '//*[@id="shopping_cart_container"]/a'
 
@@ -32,8 +32,8 @@ class InventoryPage(BaseDriver):
         #time.sleep(3)
 
     def clickonjacket(self):
-        #self.wait_for_visiblity_of_element(By.XPATH, self.img_jacket).click()
-        self.driver.find_element(By.XPATH, self.link_jacket).click()
+        self.wait_for_visiblity_of_element(By.XPATH, self.img_jacket).click()
+        #self.driver.find_element(By.XPATH, self.link_jacket).click()
         #time.sleep(3)
 
     def addjackettocart(self):

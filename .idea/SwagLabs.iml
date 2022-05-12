@@ -7,5 +7,6 @@
     <orderEntry type="module" module-name="TestFrameworkDemo" />
     <orderEntry type="module" module-name="Saucedemo" />
     <orderEntry type="module" module-name="Sample" />
+    <orderEntry type="module" module-name="Fixtures_Demo" />
   </component>
 </module>

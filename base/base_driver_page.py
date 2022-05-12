@@ -11,7 +11,7 @@ class BaseDriver:
 
     def wait_for_visiblity_of_element(self, locator_type, locator):
         wait = WebDriverWait(self.driver, 100)
-        voe = wait.until(EC.visibility_of_element_located(locator_type, locator))
+        voe = wait.until(EC.visibility_of_element_located((locator_type, locator)))
         return voe
 
     def ec_waits(self, locator_type, locator):
