@@ -1,0 +1,23 @@
+[32mINFO    [0m WDM:logger.py:26 
+
+[32mINFO    [0m WDM:logger.py:26 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:26 Current google-chrome version is 100.0.4896
+[32mINFO    [0m WDM:logger.py:26 Get LATEST chromedriver version for 100.0.4896 google-chrome
+[32mINFO    [0m WDM:logger.py:26 Driver [C:\Users\User\.wdm\drivers\chromedriver\win32\100.0.4896.60\chromedriver.exe] found in cache
+[32mINFO    [0m root:test_Login.py:21 Testing the login page
+[32mINFO    [0m root:test_Login.py:23 Launching the browser to test the application
+[32mINFO    [0m root:test_Inventory.py:19 Testing Add to cart page
+[32mINFO    [0m root:test_Inventory.py:21 Selecting the filter from price low to high
+[32mINFO    [0m root:test_Inventory.py:24 Adding items to cart
+[32mINFO    [0m root:test_Inventory.py:37 Added items to cart
+[32mINFO    [0m root:test_cartitems.py:17 Testing CartItems page
+[32mINFO    [0m root:test_cartitems.py:18 Clicking on Cart Icon
+[32mINFO    [0m root:test_cartitems.py:22 Verifying cart items
+[32mINFO    [0m root:test_cartitems.py:24 Checked out cart items
+[32mINFO    [0m root:test_checkoutInformation.py:18 Testing Checkout Information page
+[32mINFO    [0m root:test_checkoutInformation.py:19 Enter Firstname, lastname and Zipcode
+[32mINFO    [0m root:test_checkoutInformation.py:24 Clicked on continue in checkout information page
+[32mINFO    [0m root:test_Checkoutoverview.py:19 Testing checkout overview page
+[32mINFO    [0m root:test_Checkoutoverview.py:21 Clicked on finish.
+[32mINFO    [0m root:test_checkoutcomplete.py:17 Testing Checkout complete page
+[32mINFO    [0m root:test_checkoutcomplete.py:18 Checking order number in checkout complete page.
